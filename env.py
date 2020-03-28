@@ -1,0 +1,1 @@
+os.environ["MONGO_URI"] = "mongodb+srv://benm4ckenzie:r00tUser@myfirstcluster-beoum.mongodb.net/myTestDB?retryWrites=true&w=majority"
